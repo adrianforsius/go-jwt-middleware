@@ -30,7 +30,7 @@ import (
   "net/http"
 
   "github.com/auth0/go-jwt-middleware"
-  "github.com/form3tech-oss/jwt-go"
+  "github.com/adrianforsius/jwt-go"
   "context"
 )
 
@@ -72,7 +72,7 @@ import (
 
   "github.com/auth0/go-jwt-middleware"
   "github.com/urfave/negroni"
-  "github.com/form3tech-oss/jwt-go"
+  "github.com/adrianforsius/jwt-go"
   "github.com/gorilla/mux"
 )
 
