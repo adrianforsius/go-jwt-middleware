@@ -1,0 +1,36 @@
+# github.com/adrianforsius/jwt-go v3.2.3-0.20210309211125-6473c4e7ef7e+incompatible
+## explicit
+github.com/adrianforsius/jwt-go
+# github.com/auth0/go-jwt-middleware v1.0.0
+## explicit
+github.com/auth0/go-jwt-middleware
+# github.com/codegangsta/inject v0.0.0-20150114235600-33e0aa1cb7c0
+## explicit
+github.com/codegangsta/inject
+# github.com/form3tech-oss/jwt-go v3.2.2+incompatible
+github.com/form3tech-oss/jwt-go
+# github.com/go-martini/martini v0.0.0-20170121215854-22fa46961aab
+## explicit
+github.com/go-martini/martini
+# github.com/gopherjs/gopherjs v0.0.0-20200217142428-fce0ec30dd00
+## explicit
+github.com/gopherjs/gopherjs/js
+# github.com/gorilla/mux v1.7.4
+## explicit
+github.com/gorilla/mux
+# github.com/jtolds/gls v4.20.0+incompatible
+github.com/jtolds/gls
+# github.com/smartystreets/assertions v1.1.0
+## explicit
+github.com/smartystreets/assertions
+github.com/smartystreets/assertions/internal/go-diff/diffmatchpatch
+github.com/smartystreets/assertions/internal/go-render/render
+github.com/smartystreets/assertions/internal/oglematchers
+# github.com/smartystreets/goconvey v1.6.4
+## explicit
+github.com/smartystreets/goconvey/convey
+github.com/smartystreets/goconvey/convey/gotest
+github.com/smartystreets/goconvey/convey/reporting
+# github.com/urfave/negroni v1.0.0
+## explicit
+github.com/urfave/negroni
